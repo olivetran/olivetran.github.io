@@ -2,3 +2,8 @@
 .navbar .navbar-expand-lg .navbar-light {
 background-color: transparent !important;
 }
+
+.content-body {
+  padding-left: 50px;
+  padding right: 50px;
+}
